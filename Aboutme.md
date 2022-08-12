@@ -3,7 +3,7 @@
 - and software engineering
 - 🌱 I’m currently learning ... penetration testing, C, JAVA, PYTHON
 - 💞️ I’m looking to collaborate on ...
-- 📫 you can reach ma at agborovincent5@gmail.com
+- 📫 you can reach me at agborovincent5@gmail.com
 
 <!---
 codersupreem/codersupreem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
